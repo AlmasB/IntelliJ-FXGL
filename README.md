@@ -12,4 +12,5 @@ A possible (UI?) bug.
 
 ### Notes
 
-The source code of the library in question (FXGL), and specifically the function `buildAndPlay` and everything related to `AnimationBuilder`, is here: [buildAndPlay](https://github.com/AlmasB/FXGL/blob/bdb0005428329528e4202563c152e4afe913e5b6/fxgl-core/src/main/kotlin/com/almasb/fxgl/animation/AnimationBuilder.kt#L248)
+* The source code of the library in question (FXGL), and specifically the function `buildAndPlay` and everything related to `AnimationBuilder`, is here: [buildAndPlay](https://github.com/AlmasB/FXGL/blob/bdb0005428329528e4202563c152e4afe913e5b6/fxgl-core/src/main/kotlin/com/almasb/fxgl/animation/AnimationBuilder.kt#L248)
+* `File | Invalidate Caches | Invalidate and Restart` does not work for this case.
